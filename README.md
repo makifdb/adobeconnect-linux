@@ -1,2 +1,2 @@
-# adobeconnect_linux
-Adobe Connect browser support for Linux
+# Adobe Connect Linux
+Adobe Connect browser support for room url redirect
