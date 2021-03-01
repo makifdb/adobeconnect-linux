@@ -1,4 +1,4 @@
-# Adobe Connect Linux
+# Adobe Connect Browser Extention for Linux
 
 This extention redirect Adobe Connect room URL to customUrl
 
