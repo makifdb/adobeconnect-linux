@@ -1,2 +1,3 @@
 # Adobe Connect Linux
-Adobe Connect browser support for room url redirect
+This extention redirect Adobe Connect room URL to customUrl,
+Then click the "Open in browser" button, that will open the HTML viewer
