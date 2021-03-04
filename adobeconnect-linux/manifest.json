@@ -3,7 +3,6 @@
   "description": "Adobe Connect browser support for Linux",
   "version": "1.0",
   "manifest_version": 3,
-  "permissions": ["tabs"],
   "content_scripts": [ {
     "matches": ["http://*/system/get-player?urlPath=/*"],
     "js": ["main.js"]
